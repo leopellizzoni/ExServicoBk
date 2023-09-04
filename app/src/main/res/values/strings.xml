@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExServicoBk</string>
+    <string name="permission_denied">Permissão de localização</string>
+    <string name="channel_name">Importante</string>
+    <string name="channel_description">Assuntos relevantes</string>
+    <string name="assuntoNotificacao">Nossa Notificação</string>
+</resources>
